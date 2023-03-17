@@ -8,7 +8,7 @@ This is the todo app, which is made with nodeJs. MongoDB is used as Database in 
     - Delete the task
     
  
- - Fucntion
+ - Function
     - home
     - create-todo
     - delete-todo
