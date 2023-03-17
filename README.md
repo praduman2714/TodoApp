@@ -15,7 +15,11 @@ This is the todo app, which is made with nodeJs. MongoDB is used as Database in 
     
  
  - Images
-    ![homePage](https://user-images.githubusercontent.com/66240716/225839874-97f6062e-ca47-412a-950f-a76ccfc31c2b.png)
-    ![with some todo](https://user-images.githubusercontent.com/66240716/225839909-8057544b-539e-4802-b725-58af96d47bb0.png
+    ![homePag![w![with some todo](https://user-images.githubusercontent.com/66240716/225840353-4d6685a4-9c26-4896-a378-868ec397205e.png)
+    
+     
+    ![with some todo](https://user-images.githubusercontent.com/66240716/225840417-aa0c42e5-8a98-4eab-ada1-5d9df8e606e5.png)
+
+    
 
     
